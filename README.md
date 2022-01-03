@@ -9,3 +9,6 @@ _Nota_: se nel frattempo ne vengono chiamate di ulteriori esse si accumulano all
 5. Se ci si trova in una condizione in cui si è impossibilitati a eseguire i piegamenti (luogo inadatto, proibizioni etc.) si può momentaneamente sospendere il gioco oppure mettersi in una condizione in cui è possibile eseguirle.
 6. Per una qualunque modifica alle precedenti regole serve l'unanimità della [10FlessioniLampo Organization](https://github.com/10FlessioniLampo).
 7. È possibile modificare momentanemante queste regole se vi è l'approvazione all'unanimità dei soggetti giocanti.
+8. Una regola che viene creata comincia ad avere effetto da subito, e non dal momento in cui appare su questo documento.
+9. Chi sbaglia e nomina le flessioni lampo mentre il precedente cooldown non è ancora terminato deve eseguire le flessioni, mentre tutti gli altri non sono necessariamente costretti.
+10. Se un membro sta male al punto di non poter fare le flessioni deve avvertire preventivamene tutti quanti ed è esonerato finché non viene dichiarato guarito (sono escluse tutte le malattie non fisicamente debilitanti). I dolori causati dalle flessioni lampo non sono validi per l'applicazione di questa regola.
